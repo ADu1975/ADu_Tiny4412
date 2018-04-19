@@ -1,0 +1,3 @@
+kernel/drivers/input/touchscreen/ft5x06_ts.ko
+kernel/drivers/input/touchscreen/tiny4412_1wire_host.ko
+kernel/drivers/input/touchscreen/sitronix_i2c_touch.ko
